@@ -1,0 +1,16 @@
+{
+    "timeZone": "America/Los_Angeles",
+    "dependencies": {},
+    "dataStudio": {
+      "name": "OneDrive Example Connector",
+      "logoUrl": "Enter the logo link here",
+      "company": "Company Name",
+      "companyUrl": "Company URL",
+      "addonUrl": "Readme File URL",
+      "supportUrl": "Report Error URL",
+      "description": "OneDrive Connector",
+      "sources": [
+        "Reference"
+      ]
+    }
+  }
